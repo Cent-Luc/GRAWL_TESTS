@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello Rectangle", "Hello Rectangle\Hello Rectangle.vcxproj", "{02DE74FC-5779-4B4F-8E5C-A2572937504F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello Window", "Hello Window\GRAWL_TEST_1\GRAWL_TEST_1.vcxproj", "{6DD0D38A-649D-479F-B480-9CF403B62906}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello Triangle", "Hello Triangle\GRAWL_PRJ_2_Hello_Triangle\GRAWL_PRJ_2_Hello_Triangle.vcxproj", "{B400494F-8CAD-4ACA-B9CA-1A181151C1C9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello Triangle Indexed", "Hello Triangle Indexed\Hello Triangle Indexed.vcxproj", "{85E0133B-2D6A-4404-B894-F9EB8C91133E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello Rectangle Indexed", "Hello Rectangle Indexed\Hello Rectangle Indexed.vcxproj", "{3151667E-177A-41DE-85A7-8F932816B2C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02DE74FC-5779-4B4F-8E5C-A2572937504F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{02DE74FC-5779-4B4F-8E5C-A2572937504F}.Debug|Win32.Build.0 = Debug|Win32
+		{02DE74FC-5779-4B4F-8E5C-A2572937504F}.Release|Win32.ActiveCfg = Release|Win32
+		{02DE74FC-5779-4B4F-8E5C-A2572937504F}.Release|Win32.Build.0 = Release|Win32
+		{6DD0D38A-649D-479F-B480-9CF403B62906}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6DD0D38A-649D-479F-B480-9CF403B62906}.Debug|Win32.Build.0 = Debug|Win32
+		{6DD0D38A-649D-479F-B480-9CF403B62906}.Release|Win32.ActiveCfg = Release|Win32
+		{6DD0D38A-649D-479F-B480-9CF403B62906}.Release|Win32.Build.0 = Release|Win32
+		{B400494F-8CAD-4ACA-B9CA-1A181151C1C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B400494F-8CAD-4ACA-B9CA-1A181151C1C9}.Debug|Win32.Build.0 = Debug|Win32
+		{B400494F-8CAD-4ACA-B9CA-1A181151C1C9}.Release|Win32.ActiveCfg = Release|Win32
+		{B400494F-8CAD-4ACA-B9CA-1A181151C1C9}.Release|Win32.Build.0 = Release|Win32
+		{85E0133B-2D6A-4404-B894-F9EB8C91133E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{85E0133B-2D6A-4404-B894-F9EB8C91133E}.Debug|Win32.Build.0 = Debug|Win32
+		{85E0133B-2D6A-4404-B894-F9EB8C91133E}.Release|Win32.ActiveCfg = Release|Win32
+		{85E0133B-2D6A-4404-B894-F9EB8C91133E}.Release|Win32.Build.0 = Release|Win32
+		{3151667E-177A-41DE-85A7-8F932816B2C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3151667E-177A-41DE-85A7-8F932816B2C0}.Debug|Win32.Build.0 = Debug|Win32
+		{3151667E-177A-41DE-85A7-8F932816B2C0}.Release|Win32.ActiveCfg = Release|Win32
+		{3151667E-177A-41DE-85A7-8F932816B2C0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
